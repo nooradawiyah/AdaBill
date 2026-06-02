@@ -99,7 +99,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="© 2025 Noor Adawiyah Binti Awaludin"
+            android:text="© 2026 Noor Adawiyah Binti Awaludin"
             android:textSize="12sp"
             android:textColor="#888888"
             android:gravity="center"
