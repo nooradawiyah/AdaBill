@@ -118,7 +118,7 @@
             android:id="@+id/textViewGitHubURL"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="https://github.com/yourusername/AdaBill"
+            android:text="https://github.com/nooradawiyah/AdaBill"
             android:textSize="14sp"
             android:textColor="#2E8B57"
             android:autoLink="web"
